@@ -78,3 +78,8 @@ While building images, Docker under the hood maintains a cache called "Layer cac
 
 There might be situations in which to run a single project you need to run multiple containers. In this sitution, we make use of docker componse which helps us run multiple docker container as single unit.
 You create a `docker-compose.yml` file. Inside that you define different services that you to start. Once the file is ready, you can execute `docker compose up` command.
+
+#### Resources
+https://www.youtube.com/watch?v=3xDAU5cvi5E
+
+https://www.youtube.com/watch?v=31k6AtW-b3Y
